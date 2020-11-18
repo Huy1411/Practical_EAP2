@@ -1,0 +1,7 @@
+C:\Users\Huy Lo\source\repos\EmployeeService\EmployeeService\bin\EmployeeService.dll.config
+C:\Users\Huy Lo\source\repos\EmployeeService\EmployeeService\bin\EmployeeService.dll
+C:\Users\Huy Lo\source\repos\EmployeeService\EmployeeService\bin\EmployeeService.pdb
+C:\Users\Huy Lo\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojAssemblyReference.cache
+C:\Users\Huy Lo\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\Huy Lo\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\Huy Lo\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
